@@ -1,3 +1,18 @@
+layout_spectrum: 0.4589916051181015
+typography_spectrum: 0.5602065435614401
+color:
+  lightness: 0.8029833383309554
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  saturation: 0.9616594658776343
+  brandStrength: 0.6982084448422572
+  rhythmicContrast: 0.7274843664925619
+coverPrefs:
+  filter: false
 name: The Film's The Thing
 analytics: {}
 github: true
@@ -15,19 +30,6 @@ collections:
     permalink:
       path: '/:title/'
 content: []
-layout_spectrum: 0.04357490944676101
-color:
-  lightness: 0.8086537795607001
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  saturation: 0.9619317213073373
-  brandStrength: 0.6952806429471821
-  rhythmicContrast: 0.8081251850817353
 content_rating:
   adult: false
-typography_spectrum: 0.5438595458399504
 opengraph: {}
