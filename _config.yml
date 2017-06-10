@@ -1,0 +1,33 @@
+name: The Film's The Thing
+analytics: {}
+github: true
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 0.04357490944676101
+color:
+  lightness: 0.8086537795607001
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  saturation: 0.9619317213073373
+  brandStrength: 0.6952806429471821
+  rhythmicContrast: 0.8081251850817353
+content_rating:
+  adult: false
+typography_spectrum: 0.5438595458399504
+opengraph: {}
